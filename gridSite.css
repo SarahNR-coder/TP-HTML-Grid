@@ -1,0 +1,23 @@
+#container{
+    background-color: lightgrey;
+}
+
+#container div:nth-child(3){
+    background-color:aquamarine;
+}
+
+#container div:nth-child(4){
+    background-color: yellow;
+}
+
+#container div:nth-child(5){
+    background-color: lightgreen;
+}
+
+nav{
+    background-color:lightcoral;
+}
+
+footer{
+    background-color: lightskyblue;
+}
